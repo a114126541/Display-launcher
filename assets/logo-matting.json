@@ -1,0 +1,7 @@
+{
+  "method": "border-fit background removal, largest component, foreground edge decontamination",
+  "user_approved_local_processing": true,
+  "alpha_components": 1,
+  "transparent_pixels": 683947,
+  "opaque_pixels": 882509
+}

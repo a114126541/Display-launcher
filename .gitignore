@@ -1,0 +1,15 @@
+build/
+dist/
+.keys/
+.toolchain/
+.venv/
+__pycache__/
+.DS_Store
+qa/evidence/
+qa/release-check.json
+assets/icon-source.png
+assets/icon-selection.txt
+assets/icon-initial-imagegen.png
+assets/icon-prompt.txt
+assets/logo-transparent-prompt.txt
+assets/logo-preview-*.png

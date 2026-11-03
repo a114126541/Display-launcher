@@ -1,0 +1,7 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowsChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagRetrieveInteractiveWindows"
+    android:notificationTimeout="250" android:canRetrieveWindowContent="true"
+    android:description="@string/monitor_service_description"
+    android:settingsActivity="com.dylan.displaylauncher.MainActivity" />
